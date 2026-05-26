@@ -21,7 +21,7 @@ st.set_page_config(
 # ─────────────────────────────────────────────
 # API KEYS
 # ─────────────────────────────────────────────
-GOOGLE_API_KEY   = "AIzaSyDYkwuZ8GW5q-DWUcH-5zxku5fBJEX8d2g"
+GOOGLE_API_KEY   = "AIzaSyDBTIl2WK6ASzCoKTyRabA5hKj-bQTeefI"
 SERPAPI_API_KEY  = "9c4d2350ed207da1bd074d9d57c24600b54293eca51fd991b683707c6303057c"
 UNSPLASH_KEY = "client_id=jxIjm4v_bglM6mYKVgnLFrOmobHSRiixe8dKyqS4_B4"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
